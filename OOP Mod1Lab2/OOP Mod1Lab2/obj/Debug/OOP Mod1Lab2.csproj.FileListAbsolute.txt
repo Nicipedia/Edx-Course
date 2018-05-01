@@ -1,0 +1,6 @@
+c:\users\nbarkus\documents\visual studio 2015\Projects\OOP Mod1Lab2\OOP Mod1Lab2\bin\Debug\OOP Mod1Lab2.exe.config
+c:\users\nbarkus\documents\visual studio 2015\Projects\OOP Mod1Lab2\OOP Mod1Lab2\bin\Debug\OOP Mod1Lab2.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\OOP Mod1Lab2\OOP Mod1Lab2\bin\Debug\OOP Mod1Lab2.pdb
+c:\users\nbarkus\documents\visual studio 2015\Projects\OOP Mod1Lab2\OOP Mod1Lab2\obj\Debug\OOP Mod1Lab2.csprojResolveAssemblyReference.cache
+c:\users\nbarkus\documents\visual studio 2015\Projects\OOP Mod1Lab2\OOP Mod1Lab2\obj\Debug\OOP Mod1Lab2.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\OOP Mod1Lab2\OOP Mod1Lab2\obj\Debug\OOP Mod1Lab2.pdb

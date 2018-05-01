@@ -1,0 +1,6 @@
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\Mod2_Lab3\MethodsToTest\bin\Debug\MethodsToTest.exe.config
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\Mod2_Lab3\MethodsToTest\obj\Debug\MethodsToTest.csprojResolveAssemblyReference.cache
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\Mod2_Lab3\MethodsToTest\bin\Debug\MethodsToTest.exe
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\Mod2_Lab3\MethodsToTest\bin\Debug\MethodsToTest.pdb
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\Mod2_Lab3\MethodsToTest\obj\Debug\MethodsToTest.exe
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\Mod2_Lab3\MethodsToTest\obj\Debug\MethodsToTest.pdb

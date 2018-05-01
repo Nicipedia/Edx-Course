@@ -1,0 +1,6 @@
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod2_Self_ Assement\Algo Mod2_Self_ Assement\bin\Debug\Algo Mod2_Self_ Assement.exe.config
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod2_Self_ Assement\Algo Mod2_Self_ Assement\bin\Debug\Algo Mod2_Self_ Assement.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod2_Self_ Assement\Algo Mod2_Self_ Assement\bin\Debug\Algo Mod2_Self_ Assement.pdb
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod2_Self_ Assement\Algo Mod2_Self_ Assement\obj\Debug\Algo Mod2_Self_ Assement.csprojResolveAssemblyReference.cache
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod2_Self_ Assement\Algo Mod2_Self_ Assement\obj\Debug\Algo Mod2_Self_ Assement.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod2_Self_ Assement\Algo Mod2_Self_ Assement\obj\Debug\Algo Mod2_Self_ Assement.pdb

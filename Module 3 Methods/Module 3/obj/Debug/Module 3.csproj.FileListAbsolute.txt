@@ -1,0 +1,6 @@
+c:\users\nbarkus\documents\visual studio 2015\Projects\Module 3 Methods\Module 3\bin\Debug\Module 3.exe.config
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\Module 3 Methods\Module 3\obj\Debug\Module 3.csprojResolveAssemblyReference.cache
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\Module 3 Methods\Module 3\bin\Debug\Module 3.exe
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\Module 3 Methods\Module 3\bin\Debug\Module 3.pdb
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\Module 3 Methods\Module 3\obj\Debug\Module 3.exe
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\Module 3 Methods\Module 3\obj\Debug\Module 3.pdb

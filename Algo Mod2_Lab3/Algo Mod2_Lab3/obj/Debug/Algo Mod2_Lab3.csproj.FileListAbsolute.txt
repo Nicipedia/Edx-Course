@@ -1,0 +1,5 @@
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod2_Lab3\Algo Mod2_Lab3\bin\Debug\Algo Mod2_Lab3.exe.config
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod2_Lab3\Algo Mod2_Lab3\bin\Debug\Algo Mod2_Lab3.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod2_Lab3\Algo Mod2_Lab3\bin\Debug\Algo Mod2_Lab3.pdb
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod2_Lab3\Algo Mod2_Lab3\obj\Debug\Algo Mod2_Lab3.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod2_Lab3\Algo Mod2_Lab3\obj\Debug\Algo Mod2_Lab3.pdb

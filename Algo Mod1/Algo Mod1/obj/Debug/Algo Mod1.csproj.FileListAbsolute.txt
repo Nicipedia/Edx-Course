@@ -1,0 +1,6 @@
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod1\Algo Mod1\bin\Debug\Algo Mod1.exe.config
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod1\Algo Mod1\bin\Debug\Algo Mod1.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod1\Algo Mod1\bin\Debug\Algo Mod1.pdb
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod1\Algo Mod1\obj\Debug\Algo Mod1.csprojResolveAssemblyReference.cache
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod1\Algo Mod1\obj\Debug\Algo Mod1.exe
+c:\users\nbarkus\documents\visual studio 2015\Projects\Algo Mod1\Algo Mod1\obj\Debug\Algo Mod1.pdb

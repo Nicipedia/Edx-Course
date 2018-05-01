@@ -1,0 +1,6 @@
+c:\users\nbarkus\documents\visual studio 2015\Projects\Mod1_Lab1 SA\Mod1_Lab1 SA\bin\Debug\Mod1_Lab1 SA.exe.config
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\Mod1_Lab1 SA\Mod1_Lab1 SA\bin\Debug\Mod1_Lab1 SA.exe
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\Mod1_Lab1 SA\Mod1_Lab1 SA\bin\Debug\Mod1_Lab1 SA.pdb
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\Mod1_Lab1 SA\Mod1_Lab1 SA\obj\Debug\Mod1_Lab1 SA.exe
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\Mod1_Lab1 SA\Mod1_Lab1 SA\obj\Debug\Mod1_Lab1 SA.pdb
+C:\Users\nbarkus\Documents\Visual Studio 2015\Projects\Mod1_Lab1 SA\Mod1_Lab1 SA\obj\Debug\Mod1_Lab1 SA.csprojResolveAssemblyReference.cache
